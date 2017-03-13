@@ -10,3 +10,9 @@
     -n, --no-suggest  Search exact domain query.
     -t, --tld         Show only top level domains. (.com, .net, .org)
     -s, --sync        Print domain names (with pager) once when query complete for each domain
+
+
+#### TODO
+
+- Need more generally used domains extensions to list
+- Add a suggestion engine like domainr.
