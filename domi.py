@@ -17,7 +17,7 @@ def check_availability(query, extension, **options):
 
 def search(query, **options):
     result = ""
-    available_extensions = EXTENSIONS.split('|')
+    available_extensions = sorted(EXTENSIONS.split('|'))
 
     # Loop only TLDs
     if options['tld']:
