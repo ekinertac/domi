@@ -1,6 +1,6 @@
 ## Installation
 
-    $ pip install git+git@github.com:ekinertac/domi.git
+    $ pip install git+https://github.com/ekinertac/domi.git
 
 ## Usage
 
