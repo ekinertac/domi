@@ -1,3 +1,6 @@
+## Installation
+
+    $ pip install git+git@github.com:ekinertac/domi.git
 
     Usage: domi [OPTIONS] QUERY
 
