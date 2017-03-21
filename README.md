@@ -14,6 +14,6 @@
 
 #### TODO
 
-- Need more generally used domains extensions to list
-- Add a suggestion engine like domainr.
-- Push package to PyPi
+- [ ] Need more generally used domains extensions to list
+- [ ] Add a suggestion engine like domainr.
+- [ ] Push package to PyPi
